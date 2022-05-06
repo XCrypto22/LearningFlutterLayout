@@ -1,6 +1,8 @@
 # resp
 
-A new Flutter project.
+A new Flutter project. In this project, i have been learning
+about flutter layout widgets for a mobile screen. 
+IT IS NOT RESPONSIVE!!
 
 ## Getting Started
 
